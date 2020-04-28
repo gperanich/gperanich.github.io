@@ -11,6 +11,10 @@
 @import "layout";
 @import "syntax";
 
+.social-icon {
+    margin-right: 10px;
+}
+
 .menu-items {
     float: right;
     line-height: 1;
@@ -18,4 +22,41 @@
     a {
         margin-left: 10px;
     }
+}
+
+.dropdown-toggle {
+    display: none;
+
+    &:checked {
+        ~ .role-label {
+            color: yellow;
+        }
+        ~ .role-description {
+            height: auto;
+            display: block;
+        }
+    }
+}
+
+.role-label {
+    cursor: pointer;
+}
+
+.role-description {
+    height: 0;
+    display: none;
+}
+
+.role-items {
+    list-style-type: disc;
+    margin: 15px 0 15px 50px;
+
+    li {
+        margin-bottom: 15px;
+        font-size: 1.2rem;
+    }
+}
+
+.about-heading {
+    margin-top: 50px;
 }

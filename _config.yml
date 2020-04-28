@@ -1,0 +1,18 @@
+# User config
+author: "Greg Peranich"
+tagline: "Portfolio"
+description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
+keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+email: "gperanich@gmail.com"
+linkedin: "https://www.linkedin.com/in/gregperanich"
+twitter: "https://twitter.com/gperanich95"
+github: "https://github.com/gperanich"
+instagram: "https://instagram.com/gperanich"
+
+# Site config
+# baseurl: "/pineapple"
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
+include: [_pages]

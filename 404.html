@@ -1,0 +1,29 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>{{ site.author }} / {{ site.tagline }}</title>
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% include head.html %}
+</head>
+
+<body>
+    {% include header.html %}
+    <main class="content">
+        <section class="intro">
+            <div class="container">
+                <h1>OOPS</h1>
+                <p>Looks like this page doesn't exist.</p>
+            </div>
+        </section>
+    </main>
+    {% include footer.html %}
+    <script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script>
+</body>
+
+</html>

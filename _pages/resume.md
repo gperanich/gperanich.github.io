@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /about
+permalink: /resume
 ---
 
 ## Experience

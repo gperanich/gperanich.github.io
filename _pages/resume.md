@@ -1,6 +1,7 @@
 ---
 layout: base
 permalink: /resume
+tagline: "Resume"
 ---
 
 ## Experience

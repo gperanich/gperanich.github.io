@@ -7,8 +7,8 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Green Pineapple"
-  type: "Jekyll"
+  title: "CPU Monitor"
+  type: "Custom Diagnostic"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/greenpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"

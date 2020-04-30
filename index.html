@@ -28,6 +28,7 @@
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
 								<img class="portfolio-img" src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" data-hover="{{ item.project.hoverLogo | prepend: site.baseurl }}" data-pineapple="{{ item.project.logo | prepend: site.baseurl }}" />
+								<img class="portfolio-img-hover" src="{{ item.project.hoverLogo | prepend: site.baseurl }}" alt="">
 								</div>
 								<span class="h2">{{ item.project.type }}</span>
 								<h3>{{ item.project.title }}</h3>

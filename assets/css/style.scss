@@ -29,7 +29,11 @@
 
     &:checked {
         ~ .role-label {
-            color: yellow;
+
+            &:after {
+                content: '\2796';
+                
+            }
         }
         ~ .role-description {
             height: auto;
@@ -40,6 +44,14 @@
 
 .role-label {
     cursor: pointer;
+    user-select: none;
+
+    &:after {
+        margin-left: 10px;
+        margin-top: 5px;
+        font-size: 15px;
+        content: '\02795';
+    }
 }
 
 .role-description {

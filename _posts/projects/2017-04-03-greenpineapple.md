@@ -11,7 +11,8 @@ project:
   type: "Custom Diagnostic"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/greenpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  hoverLogo: "/assets/images/projects/greenpineapple/cpuload.png"
+  tech: "React, NodeJS, D3.js, CSS"
 
 agency:
   title: "Green Pineapple Co"
@@ -20,13 +21,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/greenpineapple/cpuload.png"
+    alt: "CPU Load"
   - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    url: "/assets/images/projects/greenpineapple/inctable.png"
+    alt: "Incident Table"
   - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    url: "/assets/images/projects/greenpineapple/read.png"
+    alt: "Directions for use"
 ---
-<p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
+<p>A custom built monitor to programmatically observe CPU usage. Spikes in CPU usage are stored for record keeping and analytics.</p>

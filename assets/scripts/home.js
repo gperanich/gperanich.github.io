@@ -17,11 +17,10 @@ sr.reveal('.posts-list a');
 			let img = this.children[0];
 			let hoverImg = this.children[1];
 			const hoverSrc = img.getAttribute('data-hover');
-			const imgHeight = img.height;
-			console.log('img height', img.height)
+			const imgHeight = img.getBoundingClientRect().height;
 			if (hoverSrc.indexOf('assets') !== -1) {
 				$(img).css('display', 'none')
-				$(hoverImg).css('height', imgHeight - 1);
+				$(hoverImg).css('height', imgHeight);
 				$(hoverImg).css('display', 'block')
 			}
 

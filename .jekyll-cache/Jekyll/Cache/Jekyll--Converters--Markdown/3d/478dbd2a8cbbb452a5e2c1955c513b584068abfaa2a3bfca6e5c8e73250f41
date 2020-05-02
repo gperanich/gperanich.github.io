@@ -1,0 +1,45 @@
+I"P<h2 id="experience">Experience</h2>
+<div class="role">
+<input type="checkbox" class="dropdown-toggle" id="bofa1" />
+<label for="bofa1" class="role-label">Lead Engineer - VP</label>
+<div class="role-description">
+
+    <ul class="role-items">
+      <li>Lead and own the development of an API developer portal, in React.</li>
+      <li>Assist in the design/development of REST APIs, in Java Spring.</li>
+      <li>Collaborate with the internal OAuth team to establish a secure onboarding flow for external developers.</li>
+      <li>Manage a team of local and off-shore developers, providing oversight and training in modern web development.</li>
+      <li>Implemented a scalable API platform that will help the bank expose services to business partners and mitigate risk.</li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="role">
+<input type="checkbox" class="dropdown-toggle" id="bofa2" />
+<label for="bofa2" class="role-label">Software Engineer</label>
+<div class="role-description">
+
+    <ul class="role-items">
+      <li>Work on an innovative, agile team that is primarily focused on API integration.</li>
+      <li>Rapidly design, develop, and build out Javascript web applications using modern libraries/frameworks including Node.js,
+React, and Angular.</li>
+      <li>Assisted with the design/development of an internal UI framework to produce static sites.</li>
+      <li>Led the frontend development of a comprehensive platform for managing the team-owned API gateway.</li>
+      <li>Delivered a next-gen admin console that has streamlined enterprise API management and provided momentum for the open
+banking initiative.</li>
+    </ul>
+
+  </div>
+</div>
+
+<h2 class="about-heading" id="education">Education</h2>
+<p>Depot/U (now Covalence) - Birmingham, AL - 2016 - FullStack Web Development Course Certification</p>
+
+<p>Samford University - Birmingham, AL - 2010-2014 - Bachelor of Arts, Latin American Studies</p>
+
+<h2 class="about-heading" id="skills">Skills</h2>
+<p>Tech Skills:	JavaScript; NodeJs; Java; Python; SQL; ReactJs; Angular; Docker; GraphQL; AWS; Firebase; MongoDB; HTML; CSS</p>
+
+<p>Language:	English, Spanish</p>
+:ET

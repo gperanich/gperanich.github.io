@@ -11,6 +11,7 @@ project:
   type: "Website"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/aquapineapple/logo.png"
+  hoverLogo: "/assets/images/projects/aquapineapple/home.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -20,13 +21,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/devices.jpg"
-    alt: "Aqua Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/aquapineapple/home.png"
+    alt: "Home Page"
   - image:
-    url: "/assets/images/projects/aquapineapple/desktop.jpg"
-    alt: "Aqua Pineapple website on a desktop device"
+    url: "/assets/images/projects/aquapineapple/categories.png"
+    alt: "Blog Categories"
   - image:
-    url: "/assets/images/projects/aquapineapple/mobile.jpg"
-    alt: "Aqua Pineapple website on a mobile device"
+    url: "/assets/images/projects/aquapineapple/search.png"
+    alt: "Blog Search"
 ---
-<p>In many tropical countries, pineapple is prepared and sold on roadsides as a snack. It is sold whole or in halves with a stick inserted. Chunks of pineapple are used in desserts such as fruit salad, as well as in some savory dishes, including pizza toppings, or as a grilled ring on a hamburger.</p>
+<p>A custom built, ready-to-blog website. Has the necessary hookups to connect a CMS of choice. Implements a contact form and search service.</p>

@@ -11,7 +11,8 @@ project:
   type: "ChatBot"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  hoverLogo: "/assets/images/projects/redpineapple/fbm2.png"
+  tech: "NodeJS, Dialogflow, Google Firebase, Gatsby"
 
 agency:
   title: "Red Pineapple Co"
@@ -20,13 +21,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/redpineapple/fbm1.png"
+    alt: "Facebook Messenger Chat 1"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    url: "/assets/images/projects/redpineapple/fbm2.png"
+    alt: "Facebook Messenger Chat 2"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/redpineapple/slack.png"
+    alt: "Slack Chat"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>A chat bot that responds to user inquiries regarding the stock market.  Can give current quotes, information about publicly traded companies, as well notifications of upcoming IPOs. Built on a flexible API that can be implemented anywhere. Current implementations: web, Facebook Messenger, Slack.</p>

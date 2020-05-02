@@ -48,6 +48,6 @@ Samford University - Birmingham, AL - 2010-2014 - Bachelor of Arts, Latin Americ
 
 {: .about-heading}
 ## Skills
-Tech Skills:	JavaScript; NodeJs; Java; SQL; ReactJs; Docker; GraphQL; AWS; AngularJs; MongoDB; HTML; CSS
+Tech Skills:	JavaScript; NodeJs; Java; Python; SQL; ReactJs; Angular; Docker; GraphQL; AWS; Firebase; MongoDB; HTML; CSS
 
 Language:	English, Spanish
